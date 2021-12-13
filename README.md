@@ -3,8 +3,8 @@
 Class: IEOR 4501\
 Section: 001\
 Group Members: David Zheng, Wendy Yu
-Group Member UNIs: [dz2486, wy2390]
 
+Group Member UNIs: [dz2486, wy2390]
 
 This IEOR 4501 group project is divided into two main parts and the code for the two parts are named Top10.ipynb and Parking.ipynb:
 
